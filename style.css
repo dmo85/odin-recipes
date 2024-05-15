@@ -1,0 +1,13 @@
+.title {
+    font-weight: bold;
+    color: red;
+    font-size: 25px;
+    background-color: blue;
+}
+
+.recipes {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: black;
+    background-color: red;
+    font-size: 15px;
+}
