@@ -3,6 +3,10 @@
     color: red;
     font-size: 25px;
     background-color: blue;
+    text-align: center;
+    display: block;
+    margin 16px;
+    padding: 16px;
 }
 
 .recipes {
@@ -10,4 +14,6 @@
     color: black;
     background-color: red;
     font-size: 15px;
+    display: block;
+    text-align: center;
 }
